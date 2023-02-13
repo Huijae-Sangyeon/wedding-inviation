@@ -66,14 +66,7 @@ hiddenElements.forEach((el) => observer.observe(el));
 letterSentenceElements.forEach((el) => observer.observe(el));
 
 jQuery("#nanogallery").nanogallery2({
-  // CONTENT SOURCE
-  // The optional add-on nanoPhotosProvider is used for this example - this is not mandatory and can easily be replaced by a list of medias
-  // kind: "nano_photos_provider2",
-  // dataProvider:
-  //   "https://nano.gallery/ngy2/demo1/nano_photos_provider2/nano_photos_provider2.php",
-  // album: "people",
-
-  itemsBaseURL: "/img/gallery/",
+  itemsBaseURL: "https://raw.githubusercontent.com/Huijae-Sangyeon/wedding-invitation/main/img/gallery/",
 
   items: [
     { src: "forest01.jpg", srct: "forest01.jpg" },
