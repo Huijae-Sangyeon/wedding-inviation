@@ -89,7 +89,7 @@ jQuery("#nanogallery").nanogallery2({
     { src: "forest01.jpg", srct: "forest01.jpg" },
     { src: "forest02.jpg", srct: "forest02.jpg" },
     { src: "forest03.jpg", srct: "forest03.jpg" },
-    { src: "forest04.jpg", srct: "forest04.jpg" },
+    { src: "forest04.jpeg", srct: "forest04.jpeg" },
     { src: "forest05.jpg", srct: "forest05.jpg" },
     { src: "forest06.jpeg", srct: "forest06.jpeg" },
     { src: "forest07.jpg", srct: "forest07.jpg" },
