@@ -615,7 +615,7 @@ video {
   display: grid;
   height: 100vh;
   place-content: start;
-  padding: 3%;
+  padding: 5%;
 }
 
 .qna {
